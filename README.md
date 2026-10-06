@@ -66,7 +66,7 @@ The analysis calculates:
 The Excel dashboard brings the analysis together through KPI cards, charts, 
 trend analysis, category and size analysis, and best/worst seller visualizations.
 
-![Pizza Sales Dashboard](images/Screenshot (76).png)
+![Alt text](path/to/images/Screenshot (76).png)
 
 ## 💡 Key Insights
 
